@@ -1,0 +1,14 @@
+E:\Semestre 1-2016\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\BLL\bin\Debug\BLL.dll
+E:\Semestre 1-2016\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\BLL\bin\Debug\BLL.pdb
+E:\Semestre 1-2016\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\BLL\bin\Debug\DAl.dll
+E:\Semestre 1-2016\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\BLL\bin\Debug\DAl.pdb
+E:\Semestre 1-2016\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Semestre 1-2016\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\BLL\obj\Debug\BLL.dll
+E:\Semestre 1-2016\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\BLL\obj\Debug\BLL.pdb
+C:\Users\Anthony\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\BLL\bin\Debug\BLL.dll
+C:\Users\Anthony\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\BLL\bin\Debug\BLL.pdb
+C:\Users\Anthony\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\BLL\bin\Debug\DAl.dll
+C:\Users\Anthony\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\BLL\bin\Debug\DAl.pdb
+C:\Users\Anthony\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\BLL\obj\Debug\BLL.dll
+C:\Users\Anthony\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\BLL\obj\Debug\BLL.pdb

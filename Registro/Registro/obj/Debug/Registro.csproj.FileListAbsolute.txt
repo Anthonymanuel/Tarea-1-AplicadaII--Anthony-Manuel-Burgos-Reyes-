@@ -1,0 +1,40 @@
+E:\Semestre 1-2016\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\Registro.dll.config
+E:\Semestre 1-2016\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\Registro.dll
+E:\Semestre 1-2016\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\Registro.pdb
+E:\Semestre 1-2016\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\obj\Debug\Registro.csprojResolveAssemblyReference.cache
+E:\Semestre 1-2016\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\obj\Debug\Registro.dll
+E:\Semestre 1-2016\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\obj\Debug\Registro.pdb
+E:\Semestre 1-2016\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\BLL.dll
+E:\Semestre 1-2016\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\DAl.dll
+E:\Semestre 1-2016\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\BLL.pdb
+E:\Semestre 1-2016\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\DAl.pdb
+C:\Users\JORGE\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\Registro.dll.config
+C:\Users\JORGE\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\Registro.dll
+C:\Users\JORGE\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\Registro.pdb
+C:\Users\JORGE\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\BLL.dll
+C:\Users\JORGE\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\DAl.dll
+C:\Users\JORGE\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\BLL.pdb
+C:\Users\JORGE\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\DAl.pdb
+C:\Users\JORGE\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\obj\Debug\Registro.csprojResolveAssemblyReference.cache
+C:\Users\JORGE\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\obj\Debug\Registro.dll
+C:\Users\JORGE\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\obj\Debug\Registro.pdb
+G:\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\Registro.dll.config
+G:\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\Registro.dll
+G:\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\Registro.pdb
+G:\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\BLL.dll
+G:\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\DAl.dll
+G:\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\BLL.pdb
+G:\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\DAl.pdb
+G:\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\obj\Debug\Registro.csprojResolveAssemblyReference.cache
+G:\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\obj\Debug\Registro.dll
+G:\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\obj\Debug\Registro.pdb
+C:\Users\Anthony\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\Registro.dll.config
+C:\Users\Anthony\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\Registro.dll
+C:\Users\Anthony\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\Registro.pdb
+C:\Users\Anthony\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\BLL.dll
+C:\Users\Anthony\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\DAl.dll
+C:\Users\Anthony\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\BLL.pdb
+C:\Users\Anthony\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\bin\DAl.pdb
+C:\Users\Anthony\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\obj\Debug\Registro.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\obj\Debug\Registro.dll
+C:\Users\Anthony\Desktop\Aplicada II\Tarea#1[Anthony Manuel Burgos Reyes]\Registro\Registro\obj\Debug\Registro.pdb
