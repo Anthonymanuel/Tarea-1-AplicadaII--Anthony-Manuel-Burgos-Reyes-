@@ -10,11 +10,11 @@
     <form id="form1" runat="server">
         <p>
             &nbsp;CuentaId:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <asp:TextBox ID="CuentaIdTextBox" runat="server" style="margin-left: 34px" Width="129px"></asp:TextBox>
+            <asp:TextBox ID="CuentaIdTextBox" runat="server" style="margin-left: 34px" Width="126px"></asp:TextBox>
             <asp:Button ID="BuscarButton" runat="server" OnClick="BuscarButton_Click" style="margin-left: 29px" Text="Buscar" />
             <br />
             <br />
-            &nbsp; Descripcion:<asp:TextBox ID="DescripcionTextBox" runat="server" style="margin-left: 62px"></asp:TextBox>
+            &nbsp; Descripcion:<asp:TextBox ID="DescripcionTextBox" runat="server" style="margin-left: 67px"></asp:TextBox>
             <br />
             <br />
             &nbsp;&nbsp; Balance:<asp:TextBox ID="BalanceTextBox" runat="server" Width="130px" style="margin-left: 84px"></asp:TextBox>
